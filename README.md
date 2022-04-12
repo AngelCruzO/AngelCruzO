@@ -25,12 +25,10 @@
 
 #### Social Media
  --------------------------------------------
-
-<a href="https://www.linkedin.com/in/angel-cruz-olvera-b7907427" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/angelcruzo?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-
-<img src="https://komarev.com/ghpvc/?username=angelcruzo&color=brightgreen" alt="watching_count" />
-
+<div style="display: inline-block;">
+	<a href="https://www.linkedin.com/in/angel-cruz-olvera-b7907427" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/angelcruzo?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+	<img src="https://komarev.com/ghpvc/?username=angelcruzo&color=brightgreen" alt="watching_count" />
+</div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mwhiq3d2fl82hr09fce3gic9t&count=3)
