@@ -30,3 +30,15 @@
 	<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/angelcruzo?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 	<img src="https://komarev.com/ghpvc/?username=angelcruzo&color=brightgreen" alt="watching_count" />
 </div>
+
+----------------------------------------------
+
+<p align="center">      
+<!--   <a href="https://github.com/angelcruzo/github-readme-stats"> -->
+   <img alt="Md Humair Raza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcruzo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" />
+<!--  </a> -->
+</p>  
+      
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelcruzo&show_icons=true&hide_border=true&theme=react&bg_color=060A0CD0" />
+ </p>
