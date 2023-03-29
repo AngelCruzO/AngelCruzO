@@ -1,11 +1,11 @@
 ![](Banner-github.gif)
 
-<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/txmpiphx.json"
-    trigger="hover"
-    style="width:250px;height:250px">
-</lord-icon>
+U+1F1F2
+U+1F1FD
+U+1F1F2, U+1F1FD,
+MX
+:flag_mx:
+🇲🇽
 
  ------------------------------------------
 
