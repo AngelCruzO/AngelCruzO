@@ -33,12 +33,16 @@
 
 ----------------------------------------------
 
-<p align="center">      
-<!--   <a href="https://github.com/angelcruzo/github-readme-stats"> -->
-   <img alt="Md Humair Raza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcruzo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" />
-<!--  </a> -->
-</p>  
-      
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelcruzo&show_icons=true&hide_border=true&theme=react&bg_color=060A0CD0" />
- </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelcruzo&theme=github_dark" alt="summarycard"/> </p>
+<!-- <br> -->
+<!-- <br> -->
+<br>
+<hr />
+<h3 align="center">
+
+</h3>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/angelcruzo/count.svg" />
+</h3>
+
